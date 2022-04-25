@@ -2,9 +2,9 @@
 A framework of useful functions for js
 ## Functions
 ### Random Integer
-Using the following function gets a random integer between 0 and your specified number (x).
+Using the following function gets a random integer between a minimum number and a maximum number.
 ```js
-randInt(x);
+randInt(min, max);
 ```
 ## Link to website
 To link to your website, insert this code in the head and before any script using these functions.
