@@ -3,7 +3,7 @@ A framework of useful functions for js
 ## Functions
 ### Random Integer
 Using the following function gets a random integer between 0 and your specified number (x).
-```javascript
+```js
 randInt(x);
 ```
 ## Link to website
