@@ -17,3 +17,4 @@ To add this framework to your website, insert this code in the head and before a
 ```html
 <script src="https://sipsup3314.github.io/olis-framework-js/olis-framework.js"></script>
 ```
+[Click to view js file](olis-framework.js)
