@@ -6,8 +6,14 @@ Using the following function gets a random integer between a minimum number and 
 ```js
 randInt(min, max);
 ```
-## Link to website
-To link to your website, insert this code in the head and before any script using these functions.
+
+### Random Decimal
+Using this function gives you a random value, including decimals, between a minimum number and a maximum number.
+```js
+randDec(min, max);
+```
+## Add to your website
+To add this framework to your website, insert this code in the head and before any script using these functions.
 ```html
 <script src="https://sipsup3314.github.io/olis-framework-js/olis-framework.js"></script>
 ```
