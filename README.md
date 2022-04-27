@@ -18,3 +18,4 @@ To add this library to your website, insert this code in the head and before any
 <script src="https://sipsup3314.github.io/olis-lib-js/olis-lib.js"></script>
 ```
 [Click to view js file](olis-lib.js)
+[Click to view LICENSE](LICENSE)
