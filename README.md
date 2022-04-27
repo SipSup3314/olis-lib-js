@@ -1,5 +1,5 @@
-# Oli's Framework JS
-A framework of useful functions for js
+# Oli's Library for JS
+A ibrary of useful functions for js
 ## Functions
 ### Random Integer
 Using the following function gets a random integer between a minimum number and a maximum number.
@@ -13,8 +13,8 @@ Using this function gives you a random value, including decimals, between a mini
 randDec(min, max);
 ```
 ## Add to your website
-To add this framework to your website, insert this code in the head and before any script using these functions.
+To add this library to your website, insert this code in the head and before any script using these functions.
 ```html
-<script src="https://sipsup3314.github.io/olis-framework-js/olis-framework.js"></script>
+<script src="https://sipsup3314.github.io/olis-lib-js/olis-lib.js"></script>
 ```
-[Click to view js file](olis-framework.js)
+[Click to view js file](olis-lib.js)
