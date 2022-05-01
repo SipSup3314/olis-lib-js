@@ -12,6 +12,12 @@ Using this function gives you a random value, including decimals, between a mini
 ```js
 randDec(min, max);
 ```
+
+### Chance
+Using this function returns true a specified percentage of times.
+```js
+chance(percentage);
+```
 ## Add to your website
 To add this library to your website, insert this code in the head and before any script using these functions.
 ```html
