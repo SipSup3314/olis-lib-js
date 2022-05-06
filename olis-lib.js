@@ -9,3 +9,6 @@ function chance(percentage){
         return true;
     }
 }
+function avg(array) {
+    return array.reduce((a, b) => a + b) / array.length;
+}
