@@ -18,6 +18,11 @@ Using this function returns true a specified percentage of times.
 ```js
 chance(percentage);
 ```
+### Average
+Using this function gets an average of a specified array.
+```js
+avg(array);
+```
 ## Add to your website
 To add this library to your website, insert this code in the head and before any script using these functions.
 ```html
