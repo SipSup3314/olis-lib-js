@@ -12,3 +12,6 @@ function chance(percentage){
 function avg(array) {
     return array.reduce((a, b) => a + b) / array.length;
 }
+function round(num1,num2){
+    return num2*(Math.round(num1/num2));
+}
