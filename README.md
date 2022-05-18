@@ -23,6 +23,11 @@ Using this function gets an average of a specified array.
 ```js
 avg(array);
 ```
+### Round
+Using this function rounds num1 to the nearest num2.
+```js
+round(num1, num2);
+```
 ## Add to your website
 To add this library to your website, insert this code in the head and before any script using these functions.
 ```html
